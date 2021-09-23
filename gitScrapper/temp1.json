@@ -1,0 +1,873 @@
+[
+    {
+        "topicUrl": "https://www.github.com/topics/lua",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/neovim/neovim",
+                "issues": [
+                    {
+                        "issueName": "Foreground Color of Cursor ignores Color Scheme",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15673"
+                    },
+                    {
+                        "issueName": "Lua: vim.opt table syntax fails for \"fillchars\"",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15670"
+                    },
+                    {
+                        "issueName": "Mouse drag select is offset when using 'vim.opt.mouse = 'a'' and 'vim.opt.showtabline = 2'",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15659"
+                    },
+                    {
+                        "issueName": "Last insert location should be an extmark, to follow small line changes",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15656"
+                    },
+                    {
+                        "issueName": "Expose vim.* to uv threads",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15655"
+                    },
+                    {
+                        "issueName": "Memory leak in :tmap (but not :tnoremap)",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15651"
+                    },
+                    {
+                        "issueName": "buftype=help propagates from help window to man buffer",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15650"
+                    },
+                    {
+                        "issueName": "lsp: rpc uses neovim's searchpath to determine whether executable exists",
+                        "issueUrl": "https://www.github.com/neovim/neovim/issues/15648"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/coolsnowwolf/lede",
+                "issues": [
+                    {
+                        "issueName": "没有预设的.config文件下编译错误",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7863"
+                    },
+                    {
+                        "issueName": "aMule-2.3.2 编译报错",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7862"
+                    },
+                    {
+                        "issueName": "树莓派4B 外接USB的mt7601u 网卡无法正常使用",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7861"
+                    },
+                    {
+                        "issueName": "Kernel panic",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7860"
+                    },
+                    {
+                        "issueName": "Watchcat在更新后会丢失配置",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7859"
+                    },
+                    {
+                        "issueName": "luci-app-turboacc全锥形状态异常",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7858"
+                    },
+                    {
+                        "issueName": "SSR Plus +  订阅丢弃节点",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7856"
+                    },
+                    {
+                        "issueName": "斐讯N1盒子的turboacc打开shortcut-fe会导致不停重启",
+                        "issueUrl": "https://www.github.com/coolsnowwolf/lede/issues/7852"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/cocos2d/cocos2d-x",
+                "issues": [
+                    {
+                        "issueName": "使用lua打包在android-64位机器崩溃(crash)",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20686"
+                    },
+                    {
+                        "issueName": "cocos2d-x 2.26在鸿蒙系统下面图片不显示",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20685"
+                    },
+                    {
+                        "issueName": "Cocos2d-x MSVC 2019 compile errors",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20684"
+                    },
+                    {
+                        "issueName": "Ocurred error at the close of empty window.",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20682"
+                    },
+                    {
+                        "issueName": "libcocos2d.dll is faulty",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20679"
+                    },
+                    {
+                        "issueName": "Metal Backend 代码的疑问？",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20678"
+                    },
+                    {
+                        "issueName": "IOS archive failed",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20677"
+                    },
+                    {
+                        "issueName": "最近vs2017编译cocos成为",
+                        "issueUrl": "https://www.github.com/cocos2d/cocos2d-x/issues/20676"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/lionsoul2014/ip2region",
+                "issues": [
+                    {
+                        "issueName": "兄弟.IP库该更新了",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/201"
+                    },
+                    {
+                        "issueName": "112.224.69.139 解析错误",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/200"
+                    },
+                    {
+                        "issueName": "103.121.208.184 ip 地址解析不正确",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/199"
+                    },
+                    {
+                        "issueName": "新ip.merge.txt前40155行完全重复",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/197"
+                    },
+                    {
+                        "issueName": "39.144.xxx IP段的数据需要更新",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/196"
+                    },
+                    {
+                        "issueName": "v20210309版本的库解析结果缺少ID",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/189"
+                    },
+                    {
+                        "issueName": "Lua_c can not complie and use in luajit2.0.4",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/185"
+                    },
+                    {
+                        "issueName": "移动的ip不准",
+                        "issueUrl": "https://www.github.com/lionsoul2014/ip2region/issues/178"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/spotify/annoy",
+                "issues": [
+                    {
+                        "issueName": "Suggestion - add a __version__ to annoy",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/572"
+                    },
+                    {
+                        "issueName": "unload can't free page cache",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/570"
+                    },
+                    {
+                        "issueName": "  ERROR: Failed building wheel for annoy",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/567"
+                    },
+                    {
+                        "issueName": "pip install failed on windows 10",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/554"
+                    },
+                    {
+                        "issueName": "slow work of finding neighbors in docker-compose",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/547"
+                    },
+                    {
+                        "issueName": "GPU support for inference/lookup",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/542"
+                    },
+                    {
+                        "issueName": "v1.17.0 breaking Annoy4S tests",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/540"
+                    },
+                    {
+                        "issueName": "changes meaning of 'Angular' from 'struct Angular'",
+                        "issueUrl": "https://www.github.com/spotify/annoy/issues/539"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/codota/TabNine",
+                "issues": [
+                    {
+                        "issueName": "Allow application to work with Ale vim completion",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/454"
+                    },
+                    {
+                        "issueName": "Tabnine Extension was unable to download its dependencies",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/453"
+                    },
+                    {
+                        "issueName": "I subscribe to pro, but it doesn’t work",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/452"
+                    },
+                    {
+                        "issueName": "I had pro for 1 month but it wasn't working?",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/451"
+                    },
+                    {
+                        "issueName": "High memory  usage of 'TabNine-deep-local'",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/450"
+                    },
+                    {
+                        "issueName": "Multiline suggestions indentation is not done correctly due to which I can't enable the option",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/445"
+                    },
+                    {
+                        "issueName": "full cpu use",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/443"
+                    },
+                    {
+                        "issueName": "Tabnine has no IP Whitelist",
+                        "issueUrl": "https://www.github.com/codota/TabNine/issues/442"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Hammerspoon/hammerspoon",
+                "issues": [
+                    {
+                        "issueName": "Remove \"Upload binary to Sentry\" build phase from Xcode Project",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2947"
+                    },
+                    {
+                        "issueName": "Incorrect window.filter callback when another instance of the application running",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2946"
+                    },
+                    {
+                        "issueName": "I need help writing a script for double clicking mouse button on Hammerspoon. (beginner)",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2945"
+                    },
+                    {
+                        "issueName": "hs.wifi.interfaceDetails() no BSSID",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2944"
+                    },
+                    {
+                        "issueName": "hs.window.filter has outdated Safari exclusions list",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2943"
+                    },
+                    {
+                        "issueName": "Lua warn() function doesn't print anything",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2942"
+                    },
+                    {
+                        "issueName": "window.filter.windowCreated events not detected",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2941"
+                    },
+                    {
+                        "issueName": "hs.window.switcher should have \"lifetime\" callbacks",
+                        "issueUrl": "https://www.github.com/Hammerspoon/hammerspoon/issues/2940"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/lk-geimfari/awesomo",
+                "issues": [
+                    {
+                        "issueName": "C# Common repo redirects to another one",
+                        "issueUrl": "https://www.github.com/lk-geimfari/awesomo/issues/268"
+                    },
+                    {
+                        "issueName": "Add all the icons to a folder and make a them a standard size,quality,format",
+                        "issueUrl": "https://www.github.com/lk-geimfari/awesomo/issues/245"
+                    },
+                    {
+                        "issueName": "Update all the lists for all languages",
+                        "issueUrl": "https://www.github.com/lk-geimfari/awesomo/issues/180"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/mongodb",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/macrozheng/mall",
+                "issues": [
+                    {
+                        "issueName": "db -patch",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/500"
+                    },
+                    {
+                        "issueName": "mq 生产者的confirm机制没开启吗 想看一下这种ack = false 之后的处理逻辑",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/499"
+                    },
+                    {
+                        "issueName": " Request failed with status code 500",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/498"
+                    },
+                    {
+                        "issueName": "请问SKU是否必须有才能下单吗",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/497"
+                    },
+                    {
+                        "issueName": "商品价格优惠 满减活动 后端计算错误",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/492"
+                    },
+                    {
+                        "issueName": "添加商品属性存在原子型问题",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/491"
+                    },
+                    {
+                        "issueName": "mall-common模块下WebLogAspect的切面类可能会造成信息泄漏",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/471"
+                    },
+                    {
+                        "issueName": "不能根据单个商品生成预订单和订单。",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/469"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/meteor/meteor",
+                "issues": [
+                    {
+                        "issueName": "Minifier is removing unused function args in production run",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11619"
+                    },
+                    {
+                        "issueName": "module.exportDefault is not a function",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11617"
+                    },
+                    {
+                        "issueName": "Crash in react-fast-refresh when updating to babel 7.15",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11586"
+                    },
+                    {
+                        "issueName": "Slow oplog tailing on ATLAS (reactivated issue)",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11578"
+                    },
+                    {
+                        "issueName": "Unhandled Promise Rejection in dynamic-import package",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11562"
+                    },
+                    {
+                        "issueName": "App.launchScreens() is not working for iOS in Meteor 2.2",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11555"
+                    },
+                    {
+                        "issueName": "Repeated changes to files aren't detected under 2.3.2",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11540"
+                    },
+                    {
+                        "issueName": "Usage of async_hooks / AsyncLocalStorage conflicts with Meteor 2.3+ / Node 14",
+                        "issueUrl": "https://www.github.com/meteor/meteor/issues/11539"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ityouknow/spring-boot-examples",
+                "issues": [
+                    {
+                        "issueName": "关于pom工程配置配置的问题",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/147"
+                    },
+                    {
+                        "issueName": "关于模块管理的小建议",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/143"
+                    },
+                    {
+                        "issueName": "pageable trong spring boot",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/141"
+                    },
+                    {
+                        "issueName": "Some questions",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/133"
+                    },
+                    {
+                        "issueName": "我就是来看看有没有人提issue，还有这是我人生中的第一个issue",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/40"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/mongodb/mongo",
+                "issues": [
+                    {
+                        "issueName": "SERVER-43618 Change taskExecutorPoolSize to a startup only server par…",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1416"
+                    },
+                    {
+                        "issueName": "Update README.third_party.md",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1413"
+                    },
+                    {
+                        "issueName": "SERVER-58467 Czech and Slovak FTS stemmers",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1409"
+                    },
+                    {
+                        "issueName": "SERVER-55581 Return ScopedDbConnection to connection pool in cluster aggregation planner",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1402"
+                    },
+                    {
+                        "issueName": "SERVER-59010 Fix SSL off build, OCSPManager shouldn't be used when ssl = off",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1401"
+                    },
+                    {
+                        "issueName": "SERVER-53901 improve EncryptSchemaKeyId matcher error message",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1393"
+                    },
+                    {
+                        "issueName": "SERVER-53733 Added instructions to build using docker container",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1391"
+                    },
+                    {
+                        "issueName": "Update zstandard_get_sources.sh to support WSL2",
+                        "issueUrl": "https://www.github.com/mongodb/mongo/pull/1387"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/parse-community/parse-server",
+                "issues": [
+                    {
+                        "issueName": "When a date is set to null in mongoDB, parse server returns a Date set at 1970-01-01",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7576"
+                    },
+                    {
+                        "issueName": "Nested Date type attributes are saved differently at different levels",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7575"
+                    },
+                    {
+                        "issueName": "Scalable LiveQuery server - Unable to get message from subscription",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7573"
+                    },
+                    {
+                        "issueName": "Can't download text file",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7572"
+                    },
+                    {
+                        "issueName": "Modernize Codebase",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7563"
+                    },
+                    {
+                        "issueName": "ci: optimize build process",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7550"
+                    },
+                    {
+                        "issueName": "Remove hard coded Error Codes",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7545"
+                    },
+                    {
+                        "issueName": "Clear pending ops (revert) for Cloud Function validation \"constant\"",
+                        "issueUrl": "https://www.github.com/parse-community/parse-server/issues/7534"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/prisma/prisma",
+                "issues": [
+                    {
+                        "issueName": "Case-insensitive filtering \"mode\" is not present inside NestedStringFilter",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9282"
+                    },
+                    {
+                        "issueName": "Forbid using onUpdate with prisma level integrity",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9281"
+                    },
+                    {
+                        "issueName": "panicked at 'Could not figure out an ID in create",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9280"
+                    },
+                    {
+                        "issueName": "Can't reach database server when doing a large findMany query",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9275"
+                    },
+                    {
+                        "issueName": "Support for converting an array to a string (to allow for string operations like fuzzy matching)",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9265"
+                    },
+                    {
+                        "issueName": "After upgrading to 3.0.2, can't create or update records when json field is null",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9264"
+                    },
+                    {
+                        "issueName": "Re-Introspection changes order of blocks in Prisma Schema",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9263"
+                    },
+                    {
+                        "issueName": "Serverless framework and Node-Api: invalid type: boolean true, expected a string",
+                        "issueUrl": "https://www.github.com/prisma/prisma/issues/9262"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/nswbmw/N-blog",
+                "issues": [
+                    {
+                        "issueName": "211",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/487"
+                    },
+                    {
+                        "issueName": "fs.unlink()需要加入回调参数",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/486"
+                    },
+                    {
+                        "issueName": "好像所有图片失效了",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/485"
+                    },
+                    {
+                        "issueName": "Possible Stored XSS Vulnerability in N-blog",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/484"
+                    },
+                    {
+                        "issueName": "将项目放在阿里云centos上访问不到。",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/483"
+                    },
+                    {
+                        "issueName": "用mongoose实现数据库操作，大家一起学习，嘿嘿嘿",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/482"
+                    },
+                    {
+                        "issueName": "brew tap mongodb/brew 报错",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/480"
+                    },
+                    {
+                        "issueName": "今天 已完成 扩展学习分页",
+                        "issueUrl": "https://www.github.com/nswbmw/N-blog/issues/479"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/NodeBB/NodeBB",
+                "issues": [
+                    {
+                        "issueName": "Невозможно подключиться к моему форуму",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9797"
+                    },
+                    {
+                        "issueName": "18.2 upgrade and no email accounts work anymore.",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9796"
+                    },
+                    {
+                        "issueName": "Dependency Dashboard",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9758"
+                    },
+                    {
+                        "issueName": "504/hang on new registration",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9756"
+                    },
+                    {
+                        "issueName": "ACP quicksearch no longer shows results via property name",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9709"
+                    },
+                    {
+                        "issueName": "Improving the mobile template to improve the user experience",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9653"
+                    },
+                    {
+                        "issueName": "Can't login to Nodebb when using iframe",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9556"
+                    },
+                    {
+                        "issueName": "Email confirmation toaster verbiage is confusing",
+                        "issueUrl": "https://www.github.com/NodeBB/NodeBB/issues/9539"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/sql",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/apache/spark",
+                "issues": [
+                    {
+                        "issueName": "[SPARK-36740][SQL] ArrayMin/ArrayMax/SortArray/ArraySort add comment and Unit test",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/34008"
+                    },
+                    {
+                        "issueName": "[SPARK-36710][PYTHON] Support new typing syntax in function apply APIs in pandas API on Spark",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/34007"
+                    },
+                    {
+                        "issueName": "[SPARK-36762][PYTHON] Fix Series.isin when Series has NaN values",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/34005"
+                    },
+                    {
+                        "issueName": "[SPARK-36764][SS][TEST] Fix race-condition on \"ensure continuous stream is being used\" in KafkaContinuousTest",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/34004"
+                    },
+                    {
+                        "issueName": "[SPARK-36760][SQL] Add V1 Filter.toV2 and V2Filter.toV1 methods",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/34001"
+                    },
+                    {
+                        "issueName": "[SPARK-36620][SHUFFLE] Add client side push based shuffle metrics",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/34000"
+                    },
+                    {
+                        "issueName": "[SPARK-36759][BUILD] Upgrade Scala to 2.12.15",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/33999"
+                    },
+                    {
+                        "issueName": "[WIP]Improve filter of single-indexed DataFrame",
+                        "issueUrl": "https://www.github.com/apache/spark/pull/33998"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/pingcap/tidb",
+                "issues": [
+                    {
+                        "issueName": "Invalid keys may get locked",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28073"
+                    },
+                    {
+                        "issueName": "Query Error in information_schema.slow_query",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28069"
+                    },
+                    {
+                        "issueName": "Decimal compare string parameter can't be pushed down when using plan cache",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28064"
+                    },
+                    {
+                        "issueName": "TiDB cannot support carriage characters(\\r) in SQL statements",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28062"
+                    },
+                    {
+                        "issueName": "tidb_stmt_summary_max_stmt_count does not work correctly",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28059"
+                    },
+                    {
+                        "issueName": "Placement policy will be lost after restarting the tidb server",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28058"
+                    },
+                    {
+                        "issueName": "prepared plan cache not work",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28056"
+                    },
+                    {
+                        "issueName": "Unstable test github.com/pingcap/tidb/plugin.Shutdown",
+                        "issueUrl": "https://www.github.com/pingcap/tidb/issues/28054"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/sequelize/sequelize",
+                "issues": [
+                    {
+                        "issueName": "Retry exponential backoff is not properly computed",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13494"
+                    },
+                    {
+                        "issueName": "Global Raw query has no effect",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13492"
+                    },
+                    {
+                        "issueName": "Wrong number of results for findAll() query when using separate: true in 'include' statement",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13488"
+                    },
+                    {
+                        "issueName": "bulkCreate with updateOnDuplicate creating new records if i pass non-existent index",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13485"
+                    },
+                    {
+                        "issueName": "$nested.column$ syntax throws \"Unknown column in 'where clause\"",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13480"
+                    },
+                    {
+                        "issueName": "findOne does not add 'LIMIT 1' when first column of composite primary key is passed to 'where' option",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13479"
+                    },
+                    {
+                        "issueName": "Set schema of through table for M to N Associations in a multi tenant schema based approach",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13474"
+                    },
+                    {
+                        "issueName": "Schema is missing in all AssociationsMixinOptions Types",
+                        "issueUrl": "https://www.github.com/sequelize/sequelize/issues/13473"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/dbeaver/dbeaver",
+                "issues": [
+                    {
+                        "issueName": "Connect to mutliple projects using google BigQuery service account",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13916"
+                    },
+                    {
+                        "issueName": "[macOS] Combo box inline editor doesn't close if user clicks on some spreadsheet area not occupated by any cell",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13912"
+                    },
+                    {
+                        "issueName": "Boolean value in entity editor dissapears when inline editor is closed via ESC button",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13910"
+                    },
+                    {
+                        "issueName": "Escaping in Configure Filters",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13909"
+                    },
+                    {
+                        "issueName": "Enable pagination in dictionary tab",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13907"
+                    },
+                    {
+                        "issueName": "DBeaver is freezing when executing a query with many parentheses in SELECT clause",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13905"
+                    },
+                    {
+                        "issueName": "Please PLEASE get rid of the concept of long lived connections",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13902"
+                    },
+                    {
+                        "issueName": "MySQL Use SSL Defaults cause cert error.  Wonder if a low priority feature req to add some user instruction might save frustration.",
+                        "issueUrl": "https://www.github.com/dbeaver/dbeaver/issues/13900"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/cockroachdb/cockroach",
+                "issues": [
+                    {
+                        "issueName": "changefeedccl: TestChangefeedTruncateOrDrop deadlock",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70272"
+                    },
+                    {
+                        "issueName": "roachtest: autoupgrade failed",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70271"
+                    },
+                    {
+                        "issueName": "sql: remove default CREATE privilege on public schema",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70266"
+                    },
+                    {
+                        "issueName": "bazel: investigate how to perform offline builds",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70264"
+                    },
+                    {
+                        "issueName": "serverccl: TestTenantHTTP failed",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70263"
+                    },
+                    {
+                        "issueName": "backup: nodelocal fails to find incremental backups under symlinks",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70260"
+                    },
+                    {
+                        "issueName": "roachtest: schemachange/secondary-index-multi-version failed",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70253"
+                    },
+                    {
+                        "issueName": "roachtest: version/mixed/nodes=5 failed",
+                        "issueUrl": "https://www.github.com/cockroachdb/cockroach/issues/70252"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ClickHouse/ClickHouse",
+                "issues": [
+                    {
+                        "issueName": "Select query very slow",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29056"
+                    },
+                    {
+                        "issueName": "Sometimes got big cpu iowait after upgrade to 21.8",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29053"
+                    },
+                    {
+                        "issueName": "Upgrade to 21.8 LTS fails with: Unknown auxiliary ZooKeeper name",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29052"
+                    },
+                    {
+                        "issueName": "Hung in some curl queries",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29050"
+                    },
+                    {
+                        "issueName": "../base/common/../common/wide_integer_impl.h:279:42: runtime error: 1.84467e+19 is outside the range of representable values of type 'unsigned long'",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29039"
+                    },
+                    {
+                        "issueName": "21.9.2.17 clickhouse-extract-from-config cant read xml without strict .xml extension",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29037"
+                    },
+                    {
+                        "issueName": "Terminate called for uncaught exception: WriteBufferFromHTTPServerResponse",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29022"
+                    },
+                    {
+                        "issueName": "Does clickhouse support querying the partition table of hive? How to write the sql?",
+                        "issueUrl": "https://www.github.com/ClickHouse/ClickHouse/issues/29011"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/osquery/osquery",
+                "issues": [
+                    {
+                        "issueName": "enabling bpf causes memory limits to be reached and osqueryd restarts",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7310"
+                    },
+                    {
+                        "issueName": "Add support for custom AWS Kinesis/Firehose endpoints",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7309"
+                    },
+                    {
+                        "issueName": "Failed to get YARA rule url | Retrieving YARA Rules at Runtime ",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7308"
+                    },
+                    {
+                        "issueName": "Address the incompleteness of file table results",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7306"
+                    },
+                    {
+                        "issueName": "Failed to build when cmake on MSVC",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7301"
+                    },
+                    {
+                        "issueName": "Add osquery schema summary in xls format",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7300"
+                    },
+                    {
+                        "issueName": "No way to install on FreeBSD from ports / binary packages",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7299"
+                    },
+                    {
+                        "issueName": "Unable to fetch rpm_packages on suse-sles-15-sp2-v20201211-hvm-ssd-x86_64 AWS ec2",
+                        "issueUrl": "https://www.github.com/osquery/osquery/issues/7298"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/apache/flink",
+                "issues": [
+                    {
+                        "issueName": "[FLINK-24274][docs] Wrong parameter order in documentation of State Processor API",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17292"
+                    },
+                    {
+                        "issueName": "[BP-1.14][FLINK-24292][connectors/kafka] Use KafkaSink in examples instead of FlinkKafkaProducer",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17291"
+                    },
+                    {
+                        "issueName": "[hotfix][docs] Translate cep.md",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17290"
+                    },
+                    {
+                        "issueName": "[FLINK-24293][Runtime][Coordination]User jar share",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17289"
+                    },
+                    {
+                        "issueName": "[FLINK-24292][connectors/kafka] Use KafkaSink in examples instead of …",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17288"
+                    },
+                    {
+                        "issueName": "[FLINK-23950] Revert [FLINK-23738][state] to re-enable ChangelogBackend",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17287"
+                    },
+                    {
+                        "issueName": "[FLINK-24281][connectors/kafka] Migrate all format tests from FlinkKafkaProducer to KafkaSink",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17286"
+                    },
+                    {
+                        "issueName": "[hotfix][docs] Fix Blob Server configuration doc",
+                        "issueUrl": "https://www.github.com/apache/flink/pull/17284"
+                    }
+                ]
+            }
+        ]
+    }
+]
